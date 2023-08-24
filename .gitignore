@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/Break_The_Bricks/[Ll]ibrary/
-/Break_The_Bricks/[Tt]emp/
-/Break_The_Bricks/[Oo]bj/
-/Break_The_Bricks/[Bb]uild/
-/Break_The_Bricks/[Bb]uilds/
-/Break_The_Bricks/Assets/xDeviruchi/
-/Break_The_Bricks/Assets/TextMesh Pro/Resources/Fonts & Materials/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/Assets/xDeviruchi/
+/Assets/TextMesh Pro/Resources/Fonts & Materials/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
